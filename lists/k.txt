@@ -6,7 +6,7 @@ https://archive.org/download/cCloud_20151126/cCloud.mp4
 #EXTINF:0 tvg-name="*Property of cCloudTV.ORG*" tvg-language="English" tvg-country="US" tvg-id="Property of cCloudTV.ORG" tvg-logo="http://media.comicbook.com/2015/09/baneposter2-by-sysmatic-149962.jpg" group-title="Top10",*Property of cCloudTV.ORG* (Top10) (US) (English)
 https://archive.org/download/cCloud_20151126/cCloud.mp4
 
-#EXTINF:0 tvg-name="Welcome to cCloudTV.ORG (Updated 07-14-2020 10:30:28 EST-US) the future of IPTV." tvg-language="English" tvg-country="US" tvg-id="Welcome to cCloudTV.ORG (Updated 07-14-2020 10:30:28 EST-US) the future of IPTV." tvg-logo="http://s30.postimg.cc/7ir30q7i5/12246894_1652474284992079_8160065325735639466_n.jpg" group-title="Announcement",Welcome to cCloudTV.ORG the future of IPTV. (Announcement) (US) (English)
+#EXTINF:0 tvg-name="Welcome to cCloudTV.ORG (Updated 07-14-2020 10:37:26 EST-US) the future of IPTV." tvg-language="English" tvg-country="US" tvg-id="Welcome to cCloudTV.ORG (Updated 07-14-2020 10:37:26 EST-US) the future of IPTV." tvg-logo="http://s30.postimg.cc/7ir30q7i5/12246894_1652474284992079_8160065325735639466_n.jpg" group-title="Announcement",Welcome to cCloudTV.ORG the future of IPTV. (Announcement) (US) (English)
 https://archive.org/download/cCloud_20151126/cCloud.mp4
 
 #EXTINF:0 tvg-name="*Coders needed*" tvg-language="English" tvg-country="US" tvg-id="*Coders needed*" tvg-logo="https://i.imgur.com/X4hjOLT.jpg" group-title="Top10",*Coders needed* (Top10) (US) (English)
@@ -16,13 +16,13 @@ https://archive.org/download/cCloud_20151126/cCloud.mp4|User-Agent=Mozilla%2F5.0
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjc6NDAgUE0maGFzaF92YWx1ZT02bUc4ektyK1JZUTVTS09QbDF5WTZRPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F68952%2FA%26E-(HD)
 
 #EXTINF:0 tvg-name="ABC 13 RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="ABC 13 RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Entertainment",ABC 13 RocketRaccoon (Entertainment) (US) (English)
-https://nl2.streamlive.to/freeabr/vy1mb1cqoumz1a4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjk6MzcgUE0maGFzaF92YWx1ZT1XL25Rd2lYeVJ6R2tQalZoTDB4aXF3PT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F77073%2FABC-13
+https://nl2.streamlive.to/freeabr/vy1mb1cqoumz1a4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjk6NTUgUE0maGFzaF92YWx1ZT0rdDlPMjdzSUhGVGhwWkxzQzhjVmpRPT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F77073%2FABC-13
 
 #EXTINF:0 tvg-name="ABC RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="ABC RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Entertainment",ABC RocketRaccoon (Entertainment) (US) (English)
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjc6NDQgUE0maGFzaF92YWx1ZT1mZkFLSWxveWFTcE9rMUs3U0pSYnhnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F46476%2FABC-(HD)
 
 #EXTINF:0 tvg-name="AMC  Thor" tvg-language="English" tvg-country="US" tvg-id="AMC  Thor" tvg-logo="https://i.imgur.com/rzqNe0E.jpg" group-title="Movies",AMC  Thor (Movies) (US) (English)
-https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MjY6NTggUE0maGFzaF92YWx1ZT10WG9TY2RpZ3poVUJRREZtK3JaUzJRPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76666%2FAMC-(SD)
+https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MzU6NTQgUE0maGFzaF92YWx1ZT1RYXk2TmExSGx6OEhnMC9VeHhLSkdRPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76666%2FAMC-(SD)
 
 #EXTINF:0 tvg-name="AMC RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="AMC RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Movie Channels",AMC RocketRaccoon (Movie Channels) (US) (English)
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjc6NDcgUE0maGFzaF92YWx1ZT16dHphTVJxRFllS2N6ZVAySEpCeVV3PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F46209%2FAMC-(HD)
@@ -58,22 +58,22 @@ https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjk6MTcgUE0maGFzaF92YWx1ZT00TEljazIwc3hueXJtcVlhZ0phcy9nPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76740%2FBloomberg-News-BNN-(HD)
 
 #EXTINF:0 tvg-name="Bloomberg News Thor" tvg-language="English" tvg-country="US" tvg-id="Bloomberg News Thor" tvg-logo="https://i.imgur.com/rzqNe0E.jpg" group-title="News",Bloomberg News Thor (News) (US) (English)
-https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjc6MDUgUE0maGFzaF92YWx1ZT1YeDgxKzRMcmJGZ055bDFqakFHa1Z3PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76740%2FBloomberg-News-BNN-(HD)
+https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MzY6MDIgUE0maGFzaF92YWx1ZT02VlZLUUN4eXdvM1VOelI1d3ErczdBPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76740%2FBloomberg-News-BNN-(HD)
 
 #EXTINF:0 tvg-name="Bravo RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="Bravo RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Entertainment",Bravo RocketRaccoon (Entertainment) (US) (English)
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjc6MzUgUE0maGFzaF92YWx1ZT1LR2V0TzFhQnJqbzN4SEVUODd1cTBRPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F52480%2FBravo-(HD)
 
 #EXTINF:0 tvg-name="CBS 12 Thor" tvg-language="English" tvg-country="US" tvg-id="CBS 12 Thor" tvg-logo="https://i.imgur.com/rzqNe0E.jpg" group-title="Entertainment",CBS 12 Thor (Entertainment) (US) (English)
-https://nl2.streamlive.to/freeabr/48p8gc0y52fp16b/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjc6MTMgUE0maGFzaF92YWx1ZT1xU3lKWGhRaXRCV1BkQVVjNWtmZk5RPT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F77070%2FCBS-12
+https://nl2.streamlive.to/freeabr/48p8gc0y52fp16b/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MzY6MTAgUE0maGFzaF92YWx1ZT1WN0JGdStER003bm1CVmtpM0VXZk5BPT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F77070%2FCBS-12
 
 #EXTINF:0 tvg-name="CBS New York RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="CBS New York RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Entertainment",CBS New York RocketRaccoon (Entertainment) (US) (English)
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjk6MjYgUE0maGFzaF92YWx1ZT1CNHRWUEZpeG9WeDMxRmlhNk5Zc3RnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76762%2FCBS-New-York(HD)
 
 #EXTINF:0 tvg-name="CBS RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="CBS RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Entertainment",CBS RocketRaccoon (Entertainment) (US) (English)
-https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjc6MzIgUE0maGFzaF92YWx1ZT1pbTFvd0lCMTlWRVg3dXZnQmxvZWpnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F57976%2FCBS-(HD)
+https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MzY6MjYgUE0maGFzaF92YWx1ZT1lYzZyYlE5cUhmUTVOVHcxVGNMWXhRPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F57976%2FCBS-(HD)
 
 #EXTINF:0 tvg-name="CBS SD Thor" tvg-language="English" tvg-country="US" tvg-id="CBS SD Thor" tvg-logo="https://i.imgur.com/rzqNe0E.jpg" group-title="Entertainment",CBS SD Thor (Entertainment) (US) (English)
-https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjc6MjIgUE0maGFzaF92YWx1ZT1XQ2VyUTZBUDlzTGZoYngrSE5yUStnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F69956%2FCBS-(SD)
+https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MzY6MTkgUE0maGFzaF92YWx1ZT00eXIrdSs0aTlpN1pRbWdOL0JRUUZBPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F69956%2FCBS-(SD)
 
 #EXTINF:0 tvg-name="CBS Sports RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="CBS Sports RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Sports",CBS Sports RocketRaccoon (Sports) (US) (English)
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjg6NTkgUE0maGFzaF92YWx1ZT14NWVqUm4wdCtmQ0VUcmNoZDk1UWRnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F74553%2FCBS-Sport-Network-(HD)
@@ -82,10 +82,10 @@ https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjg6MDYgUE0maGFzaF92YWx1ZT0reU9NaW8vM3ZFWFpVWVlCUUl2dnB3PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F71981%2FCNBC-(HD)
 
 #EXTINF:0 tvg-name="CNN RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="CNN RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="News",CNN RocketRaccoon (News) (US) (English)
-https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjc6MjYgUE0maGFzaF92YWx1ZT1rTG9ucUlzcTF1eVdBYTlGYllDNjlnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F46461%2FCNN-(HD)
+https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MzY6MjMgUE0maGFzaF92YWx1ZT10OGFwWGJGK0o3SmxLY3REbXF4K053PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F46461%2FCNN-(HD)
 
 #EXTINF:0 tvg-name="CNN SD Thor" tvg-language="English" tvg-country="US" tvg-id="CNN SD Thor" tvg-logo="https://i.imgur.com/rzqNe0E.jpg" group-title="News",CNN SD Thor (News) (US) (English)
-https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MjY6NTMgUE0maGFzaF92YWx1ZT1WLytJNUNCV3JFVWZPU0RqSWNsY0lBPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F68967%2FCNN-(SD)
+https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MzU6NDUgUE0maGFzaF92YWx1ZT1jZExSQ0NyQmxtL3NRZW5XZ2p3MVdnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F68967%2FCNN-(SD)
 
 #EXTINF:0 tvg-name="CP24 Canada RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="CP24 Canada RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="News",CP24 Canada RocketRaccoon (News) (US) (English)
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjk6MjEgUE0maGFzaF92YWx1ZT1pR3JOUy9TaUZWMlBRVW9NOE5vNDVRPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76342%2FCP24-(Canada)
@@ -97,7 +97,7 @@ https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjc6MzMgUE0maGFzaF92YWx1ZT12dmhOVVA5Q0wxYkE5eUlYWWZaN0tnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F52510%2FCW-(HD)
 
 #EXTINF:0 tvg-name="Caracol Columbia Thor" tvg-language="English" tvg-country="US" tvg-id="Caracol Columbia Thor" tvg-logo="https://i.imgur.com/rzqNe0E.jpg" group-title="Spanish",Caracol Columbia Thor (Spanish) (US) (English)
-https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjc6MjEgUE0maGFzaF92YWx1ZT1qRG0vRmY1MWY5dnRKMTNqRS8zRFdnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76875%2FCaracol-Colombia-(HD)
+https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MzY6MTggUE0maGFzaF92YWx1ZT1OZGttWTNYcHpkSGVTcHo2V3B0WHZBPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76875%2FCaracol-Colombia-(HD)
 
 #EXTINF:0 tvg-name="Cartoon Network RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="Cartoon Network RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Entertainment",Cartoon Network RocketRaccoon (Entertainment) (US) (English)
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjc6NTYgUE0maGFzaF92YWx1ZT1WYXhTeDhwOXhGdm1aemkvb0ZtSHpBPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F71632%2FCartoon-Network-(HD)
@@ -112,7 +112,7 @@ https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjc6NTUgUE0maGFzaF92YWx1ZT1ZcWIyVmMxQmUvZjdncDZEZWQ5MU5RPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F69112%2FDiscovery-(HD)
 
 #EXTINF:0 tvg-name="Disney Jr Thor" tvg-language="English" tvg-country="US" tvg-id="Disney Jr Thor" tvg-logo="https://i.imgur.com/rzqNe0E.jpg" group-title="Kids",Disney Jr Thor (Kids) (US) (English)
-https://nl2.streamlive.to/freeabr/5wpvq031xn4vnct/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjc6MDQgUE0maGFzaF92YWx1ZT1URHJsYnVQOGtJYlNxcURQUzdSeXhBPT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76878%2FDisney-Junior-East
+https://nl2.streamlive.to/freeabr/5wpvq031xn4vnct/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MzY6MDEgUE0maGFzaF92YWx1ZT1WZ3I3Uyt3WUNRNCtYWEROTktraVJRPT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76878%2FDisney-Junior-East
 
 #EXTINF:0 tvg-name="Disney Junior RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="Disney Junior RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Kids",Disney Junior RocketRaccoon (Kids) (US) (English)
 https://nl2.streamlive.to/freeabr/5wpvq031xn4vnct/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjc6NTggUE0maGFzaF92YWx1ZT1HZ1dHb0Y4MWswVlFqRzFjUVdhYXFnPT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76878%2FDisney-Junior-East
@@ -130,31 +130,31 @@ https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjg6MjAgUE0maGFzaF92YWx1ZT1ac2xLSWFUWUpSNFpNRVhRUGdsS0R3PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F57977%2FESPN-2-(HD)
 
 #EXTINF:0 tvg-name="ESPN 2 SD Thor" tvg-language="English" tvg-country="US" tvg-id="ESPN 2 SD Thor" tvg-logo="https://i.imgur.com/rzqNe0E.jpg" group-title="Sports",ESPN 2 SD Thor (Sports) (US) (English)
-https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjc6MTIgUE0maGFzaF92YWx1ZT1aeDNod09IZ1A4UW1kU1czOWNtUnRnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F69028%2FESPN-2-(SD)
+https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MzY6MDkgUE0maGFzaF92YWx1ZT1TYVh1SmFvRmViQS9EREFCUWNselFRPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F69028%2FESPN-2-(SD)
 
 #EXTINF:0 tvg-name="ESPN Backup Thor" tvg-language="English" tvg-country="US" tvg-id="ESPN Backup Thor" tvg-logo="https://i.imgur.com/rzqNe0E.jpg" group-title="Sports",ESPN Backup Thor (Sports) (US) (English)
-https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjc6MDIgUE0maGFzaF92YWx1ZT1DeWwrT2FaN3JIclRiU0hJSEVwK3lBPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F77024%2FESPN-(HD)-Backup
+https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MzU6NTggUE0maGFzaF92YWx1ZT1zQlo5YXkydUU5WjhXaVhiZnU1M3BBPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F77024%2FESPN-(HD)-Backup
 
 #EXTINF:0 tvg-name="ESPN Deportes RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="ESPN Deportes RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Sports",ESPN Deportes RocketRaccoon (Sports) (US) (English)
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjg6MDQgUE0maGFzaF92YWx1ZT1qTElBS3RiZjVqdFIvRnErLy9SOTlnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76738%2FESPN-Deportes-(HD)
 
 #EXTINF:0 tvg-name="ESPN Deportes Thor" tvg-language="English" tvg-country="US" tvg-id="ESPN Deportes Thor" tvg-logo="https://i.imgur.com/rzqNe0E.jpg" group-title="Sports",ESPN Deportes Thor (Sports) (US) (English)
-https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MjY6NTkgUE0maGFzaF92YWx1ZT1WVCt2a1lJL2J4dzNNOHMyR2piMG9nPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76738%2FESPN-Deportes-(HD)
+https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MzU6NTUgUE0maGFzaF92YWx1ZT1sUEdkV0IreTJPWWRvdkpwSVZybm9BPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76738%2FESPN-Deportes-(HD)
 
 #EXTINF:0 tvg-name="ESPN News Thor" tvg-language="English" tvg-country="US" tvg-id="ESPN News Thor" tvg-logo="https://i.imgur.com/rzqNe0E.jpg" group-title="News",ESPN News Thor (News) (US) (English)
-https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjc6MDYgUE0maGFzaF92YWx1ZT02NTEzbFF4T3VDd0dIQzVhRVVweU1BPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76763%2FESPN-News-(HD)
+https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MzY6MDMgUE0maGFzaF92YWx1ZT15blVLWlZnMHVpOWV0WnVjbk93MGh3PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76763%2FESPN-News-(HD)
 
 #EXTINF:0 tvg-name="ESPN RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="ESPN RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Sports",ESPN RocketRaccoon (Sports) (US) (English)
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjg6MDIgUE0maGFzaF92YWx1ZT1SUk1wcDBPYlR1cldRMFJBTFcvckZRPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F48051%2FESPN-(HD)
 
 #EXTINF:0 tvg-name="ESPN Thor" tvg-language="English" tvg-country="US" tvg-id="ESPN Thor" tvg-logo="https://i.imgur.com/rzqNe0E.jpg" group-title="Entertainment",ESPN Thor (Entertainment) (US) (English)
-https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MjY6NDUgUE0maGFzaF92YWx1ZT03aHN2OExybFROUGYyM1FsN1hQSDVBPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F69029%2FESPN
+https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MzU6MzYgUE0maGFzaF92YWx1ZT1ZYnpnc1RoOTZ2RlN1ZVFJUUFDSlFnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F69029%2FESPN
 
 #EXTINF:0 tvg-name="ESPN Thor" tvg-language="English" tvg-country="US" tvg-id="ESPN Thor" tvg-logo="https://i.imgur.com/rzqNe0E.jpg" group-title="Sports",ESPN Thor (Sports) (US) (English)
-https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MjY6NDcgUE0maGFzaF92YWx1ZT0zT0FqalE3Y05sbHpkZzBlVmt1T0NnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F48051%2FESPN-(HD)
+https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MzU6MzkgUE0maGFzaF92YWx1ZT1wVGNaVVhjWml6dFA3TEVBdEdBamJBPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F48051%2FESPN-(HD)
 
 #EXTINF:0 tvg-name="ESPN U HD Thor" tvg-language="English" tvg-country="US" tvg-id="ESPN U HD Thor" tvg-logo="https://i.imgur.com/rzqNe0E.jpg" group-title="Sports",ESPN U HD Thor (Sports) (US) (English)
-https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjc6MDcgUE0maGFzaF92YWx1ZT16cCs0b0JuMHpTOEJ4L09uM3c2blJnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76663%2FESPN-U-(HD)
+https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MzY6MDUgUE0maGFzaF92YWx1ZT1qZnBVS1FSc1FNSU0zY3ZHaWtRdXNBPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76663%2FESPN-U-(HD)
 
 #EXTINF:0 tvg-name="Eventos en Vivo RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="Eventos en Vivo RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Spanish",Eventos en Vivo RocketRaccoon (Spanish) (US) (English)
 https://nl2.streamlive.to/freeabr/8whqzooh4rthbfk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjg6NTUgUE0maGFzaF92YWx1ZT1XYitUWFNKaVZMTFlDM21aUG5kZjRRPT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F73659%2FEventos-en-vivo---Vip-8
@@ -172,7 +172,7 @@ https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjg6MDggUE0maGFzaF92YWx1ZT1JSTZEMnJiNUZRR3AzSTZJVXZwd0h3PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F74552%2FFox-Business-(HD)
 
 #EXTINF:0 tvg-name="Fox Network SD Thor" tvg-language="English" tvg-country="US" tvg-id="Fox Network SD Thor" tvg-logo="https://i.imgur.com/rzqNe0E.jpg" group-title="Entertainment",Fox Network SD Thor (Entertainment) (US) (English)
-https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjc6MTEgUE0maGFzaF92YWx1ZT16dkRVaTNTeHFHUThHZzZvMGpLVmxRPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F70048%2FFox-Network-(SD)
+https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MzY6MDggUE0maGFzaF92YWx1ZT1uV1pHelJCY2NaTFh6SFBmV2YwUFV3PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F70048%2FFox-Network-(SD)
 
 #EXTINF:0 tvg-name="Fox News RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="Fox News RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="News",Fox News RocketRaccoon (News) (US) (English)
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjg6MDkgUE0maGFzaF92YWx1ZT01VHd3MXozcVN1SFF3UWdTcXJPL1FRPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F46465%2FFox-News-(HD)
@@ -181,13 +181,13 @@ https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjk6MjQgUE0maGFzaF92YWx1ZT1rRG9hUlc5YWZjVHBzdVlBSWJuNEd3PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76345%2FFox-Sports-2-(HD)-vip
 
 #EXTINF:0 tvg-name="Fox Sports 3 RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="Fox Sports 3 RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Sports",Fox Sports 3 RocketRaccoon (Sports) (US) (English)
-https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjk6MzYgUE0maGFzaF92YWx1ZT15VTBlTGhpU2M4YmxJaG5DNXFJbWNBPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F47799%2FLA%3A-Fox-Sports-3-(HD)
+https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjk6NTQgUE0maGFzaF92YWx1ZT1ERXZMd21ZYW1YbFMwMDBNZ0IyejBnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F47799%2FLA%3A-Fox-Sports-3-(HD)
 
 #EXTINF:0 tvg-name="Freeform RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="Freeform RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Entertainment",Freeform RocketRaccoon (Entertainment) (US) (English)
-https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjk6MzEgUE0maGFzaF92YWx1ZT1BbllYcjRsb1VPK0JxRm95Y2ZCVHp3PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76645%2FFreeForm-(HD)
+https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjk6NDcgUE0maGFzaF92YWx1ZT11dXFjUVR5dEQzVG1qRFVqWUN4bFdnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76645%2FFreeForm-(HD)
 
 #EXTINF:0 tvg-name="Friends Show Thor" tvg-language="English" tvg-country="US" tvg-id="Friends Show Thor" tvg-logo="https://i.imgur.com/rzqNe0E.jpg" group-title="RandomAirTime 24/7",Friends Show Thor (RandomAirTime 24/7) (US) (English)
-https://nl2.streamlive.to/freeabr/wg2fmaake2sfjbr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjc6MjUgUE0maGFzaF92YWx1ZT1PdzJqVzZqUWF5VUIzcnVtK1ZITFR3PT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F36673%2FFriends-show
+https://nl2.streamlive.to/freeabr/wg2fmaake2sfjbr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MzY6MjIgUE0maGFzaF92YWx1ZT03RHVnMTNOLy9KWUhBb2RLZE14RndRPT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F36673%2FFriends-show
 
 #EXTINF:0 tvg-name="Game Show Network RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="Game Show Network RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Entertainment",Game Show Network RocketRaccoon (Entertainment) (US) (English)
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjk6MDEgUE0maGFzaF92YWx1ZT00Z3A1Z3pVTlZVVzMvbmZEZGxCRWZRPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76414%2FGameshow-Network-(GSN)-(HD)
@@ -202,19 +202,19 @@ https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjk6MzYgUE0maGFzaF92YWx1ZT15VTBlTGhpU2M4YmxJaG5DNXFJbWNBPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76742%2FHBO-2-(HD)
 
 #EXTINF:0 tvg-name="HBO Comedy Thor" tvg-language="English" tvg-country="US" tvg-id="HBO Comedy Thor" tvg-logo="https://i.imgur.com/rzqNe0E.jpg" group-title="Entertainment",HBO Comedy Thor (Entertainment) (US) (English)
-https://nl2.streamlive.to/freeabr/a1wn1j3ra1w0cv0/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MjY6NDggUE0maGFzaF92YWx1ZT00NEx5UFowWEpiZGpYeEY5VDk4RmZBPT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F38214%2FHBO-Comedy-movie
+https://nl2.streamlive.to/freeabr/a1wn1j3ra1w0cv0/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MzU6NDEgUE0maGFzaF92YWx1ZT1idnBOMEtqZkJpK21wV1RiVWNtL1pBPT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F38214%2FHBO-Comedy-movie
 
 #EXTINF:0 tvg-name="HBO RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="HBO RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Entertainment",HBO RocketRaccoon (Entertainment) (US) (English)
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjc6MzkgUE0maGFzaF92YWx1ZT1TUHc4TE1nMGRIY3ZEc2NWSkwvTk1BPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F36674%2FHBO-(HD)
 
 #EXTINF:0 tvg-name="HBO SD Thor" tvg-language="English" tvg-country="US" tvg-id="HBO SD Thor" tvg-logo="https://i.imgur.com/rzqNe0E.jpg" group-title="Movies",HBO SD Thor (Movies) (US) (English)
-https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjc6MDggUE0maGFzaF92YWx1ZT1hR21xVGpHQ2ZpenQ5amluSnJoYjVBPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F69021%2FHBO-(SD)
+https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MzY6MDYgUE0maGFzaF92YWx1ZT0wUXhCdEVoNDYxaEs3ZFYzWGliaGt3PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F69021%2FHBO-(SD)
 
 #EXTINF:0 tvg-name="HBO Signature RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="HBO Signature RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Movies",HBO Signature RocketRaccoon (Movies) (US) (English)
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjg6MjUgUE0maGFzaF92YWx1ZT1KWHYxaVBPcjBZWk5ic1Uvc3R2T0l3PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76728%2FHBO-Signature-(HD)
 
 #EXTINF:0 tvg-name="HGTV RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="HGTV RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Entertainment",HGTV RocketRaccoon (Entertainment) (US) (English)
-https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjc6MzEgUE0maGFzaF92YWx1ZT1Mb1pIYis1YTVxaDhvVGlremczNXNRPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F52053%2FHGTV-(HD)
+https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MzY6MjQgUE0maGFzaF92YWx1ZT1QUmhtSDVHaXU2dUsweEx4a293YWJ3PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F52053%2FHGTV-(HD)
 
 #EXTINF:0 tvg-name="Hallmark Movies & Mysteries RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="Hallmark Movies & Mysteries RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Entertainment",Hallmark Movies & Mysteries RocketRaccoon (Entertainment) (US) (English)
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjc6NDIgUE0maGFzaF92YWx1ZT0xWjJ1MmR3OTVWRXBpb05TZFV1VjlBPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76733%2FHallmark-Movies-%26-Mysteries
@@ -229,10 +229,10 @@ https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjg6MjggUE0maGFzaF92YWx1ZT1veDJCenVTeUMrL2hZOEhubG9KR1ZnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F69111%2FID---Investigation-Discovery-(HD)
 
 #EXTINF:0 tvg-name="King of Queens Thor" tvg-language="English" tvg-country="US" tvg-id="King of Queens Thor" tvg-logo="https://i.imgur.com/rzqNe0E.jpg" group-title="RandomAirTime 24/7",King of Queens Thor (RandomAirTime 24/7) (US) (English)
-https://nl2.streamlive.to/freeabr/yytqkp7711cd1ze/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MjY6NTIgUE0maGFzaF92YWx1ZT14MTVqbkhYK3FzOTdEaFZEakJWYkNBPT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F38213%2FKing-of-Queens
+https://nl2.streamlive.to/freeabr/yytqkp7711cd1ze/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MzU6NDQgUE0maGFzaF92YWx1ZT11bHdSQ1I4U00yVmxmcnpHVUFxcjh3PT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F38213%2FKing-of-Queens
 
 #EXTINF:0 tvg-name="Kingz Court TV Thor" tvg-language="English" tvg-country="US" tvg-id="Kingz Court TV Thor" tvg-logo="https://i.imgur.com/rzqNe0E.jpg" group-title="Entertainment",Kingz Court TV Thor (Entertainment) (US) (English)
-https://nl2.streamlive.to/freeabr/t8pxhnkifqyflgz/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjc6MjMgUE0maGFzaF92YWx1ZT1Nb1l0YUFERXltOHdiN0ptY3Rqb3NBPT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F71259%2FKingz-Court-TV
+https://nl2.streamlive.to/freeabr/t8pxhnkifqyflgz/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MzY6MjEgUE0maGFzaF92YWx1ZT1zUE83S0lvR3VzN2hkRmF1UTJXT1F3PT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F71259%2FKingz-Court-TV
 
 #EXTINF:0 tvg-name="Lifetime Movies RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="Lifetime Movies RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Movie Channels",Lifetime Movies RocketRaccoon (Movie Channels) (US) (English)
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjg6MTEgUE0maGFzaF92YWx1ZT12K0UvUUVHaTBKZW1WTmZrR2Z6Ukp3PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76394%2FLifetime-Movie-Network-(HD)
@@ -253,28 +253,28 @@ https://nl2.streamlive.to/freeabr/p3z4z64f683thac/playlist.m3u8?wmsAuthSign=c2Vy
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjg6NTIgUE0maGFzaF92YWx1ZT1nQys3aFlSR2NieXVwdFprV01ZSkF3PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F52505%2FMSNBC-(HD)
 
 #EXTINF:0 tvg-name="My9 Thor" tvg-language="English" tvg-country="US" tvg-id="My9 Thor" tvg-logo="https://i.imgur.com/rzqNe0E.jpg" group-title="Entertainment",My9 Thor (Entertainment) (US) (English)
-https://nl2.streamlive.to/freeabr/4potjj8oc8qdywn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjc6MTkgUE0maGFzaF92YWx1ZT1HaDFjalRQZGUvejQxZXlGZlhtMzlRPT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76882%2FMy9
+https://nl2.streamlive.to/freeabr/4potjj8oc8qdywn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MzY6MTYgUE0maGFzaF92YWx1ZT1xdFJWTUdnRDhNbFpIM0hLbEZMUytBPT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76882%2FMy9
 
 #EXTINF:0 tvg-name="NBA TV RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="NBA TV RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Sports",NBA TV RocketRaccoon (Sports) (US) (English)
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjc6NDYgUE0maGFzaF92YWx1ZT1RalJPaTZMSHBJZXRDNDgwSFJSdUZBPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F73674%2FNBA-TV-(HD)
 
 #EXTINF:0 tvg-name="NBC 5 Thor" tvg-language="English" tvg-country="US" tvg-id="NBC 5 Thor" tvg-logo="https://i.imgur.com/rzqNe0E.jpg" group-title="Entertainment",NBC 5 Thor (Entertainment) (US) (English)
-https://nl2.streamlive.to/freeabr/2cnntnj8kiy2gy2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MjY6NTAgUE0maGFzaF92YWx1ZT1ZTFI5K2hya3dPYlNKS3MxVGZQT3RBPT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76884%2FNBC-5
+https://nl2.streamlive.to/freeabr/2cnntnj8kiy2gy2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MzU6NDIgUE0maGFzaF92YWx1ZT03aldFY1pha0tWK1AvZllwMHd3czNRPT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76884%2FNBC-5
 
 #EXTINF:0 tvg-name="NBC New York RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="NBC New York RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Entertainment",NBC New York RocketRaccoon (Entertainment) (US) (English)
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjk6MzQgUE0maGFzaF92YWx1ZT1hRnJsSFN5S01Bd1dYVmZBMkxaam1BPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76726%2FNBC-NY-(HD)
 
 #EXTINF:0 tvg-name="NBC RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="NBC RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Entertainment",NBC RocketRaccoon (Entertainment) (US) (English)
-https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjc6MzAgUE0maGFzaF92YWx1ZT1yUm9DUWZDZTZKRFY0Z1E3cXYzWEdnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F57956%2FNBC-(HD)
+https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MzY6MjYgUE0maGFzaF92YWx1ZT1lYzZyYlE5cUhmUTVOVHcxVGNMWXhRPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F57956%2FNBC-(HD)
 
 #EXTINF:0 tvg-name="NBC SD Thor" tvg-language="English" tvg-country="US" tvg-id="NBC SD Thor" tvg-logo="https://i.imgur.com/rzqNe0E.jpg" group-title="Entertainment",NBC SD Thor (Entertainment) (US) (English)
-https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjc6MTggUE0maGFzaF92YWx1ZT1oa0JDVkRjVU1kaUhzbVBRbjZVQzB3PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F69116%2FNBC-(SD)
+https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MzY6MTUgUE0maGFzaF92YWx1ZT0zOGJoNjhtNUNTbHh5V1JObHd3Tjl3PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F69116%2FNBC-(SD)
 
 #EXTINF:0 tvg-name="NBC Sport Network SD Thor" tvg-language="English" tvg-country="US" tvg-id="NBC Sport Network SD Thor" tvg-logo="https://i.imgur.com/rzqNe0E.jpg" group-title="Sports",NBC Sport Network SD Thor (Sports) (US) (English)
-https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjc6MTAgUE0maGFzaF92YWx1ZT1Bd3BmRkkyWGsyUGdMbUhvNXVvbjN3PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F71137%2FNBC-Sport-Network-(SD)
+https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MzY6MDcgUE0maGFzaF92YWx1ZT1Tb3phT1UxTkhTM1gzN1ppdXZ1d2xRPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F71137%2FNBC-Sport-Network-(SD)
 
 #EXTINF:0 tvg-name="NBC Sports RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="NBC Sports RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Sports",NBC Sports RocketRaccoon (Sports) (US) (English)
-https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjc6MjcgUE0maGFzaF92YWx1ZT13SWpjWkdPcGpQZEhzSXM5ZkNENk9BPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F64232%2FNBC-Sport-Network-(HD)
+https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MzY6MjQgUE0maGFzaF92YWx1ZT1QUmhtSDVHaXU2dUsweEx4a293YWJ3PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F64232%2FNBC-Sport-Network-(HD)
 
 #EXTINF:0 tvg-name="NFL Network RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="NFL Network RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Sports",NFL Network RocketRaccoon (Sports) (US) (English)
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjg6MjYgUE0maGFzaF92YWx1ZT0zdDdGNmVKYXNnQlFUN3dESXRDWVJBPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F68875%2FNFL-Network-(HD)
@@ -286,7 +286,7 @@ https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjg6MjEgUE0maGFzaF92YWx1ZT1aT1JMY254eXpyTiszaEJVOWxraXVnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F47898%2FNHL-Center-Ice-Plus-772
 
 #EXTINF:0 tvg-name="Nat Geo Wild RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="Nat Geo Wild RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Entertainment",Nat Geo Wild RocketRaccoon (Entertainment) (US) (English)
-https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjk6MjkgUE0maGFzaF92YWx1ZT01RHcvdkFXS3RjV1gzR2trSDRIYnVBPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F73372%2FNational-Geographic-Wild-(HD)
+https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjk6NDUgUE0maGFzaF92YWx1ZT1jWTlRaDlpcmFTVzFJWC9RZ3dnSzFBPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F73372%2FNational-Geographic-Wild-(HD)
 
 #EXTINF:0 tvg-name="National Geographic RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="National Geographic RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Education",National Geographic RocketRaccoon (Education) (US) (English)
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjc6NTIgUE0maGFzaF92YWx1ZT0xQ2JlaGd5cyt2VmxIUGQ4VXJVNXNBPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F68872%2FNational-Geographic-(HD)
@@ -298,13 +298,13 @@ https://nl2.streamlive.to/freeabr/tn67jf9t4ozkfbg/playlist.m3u8?wmsAuthSign=c2Vy
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjg6MTUgUE0maGFzaF92YWx1ZT1mdG1qbVNBOVJEbFBuMUd2dUw1Z0hRPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F71112%2FNickelodeon-(HD)
 
 #EXTINF:0 tvg-name="Nickelodeon Thor" tvg-language="English" tvg-country="US" tvg-id="Nickelodeon Thor" tvg-logo="https://i.imgur.com/rzqNe0E.jpg" group-title="Kids",Nickelodeon Thor (Kids) (US) (English)
-https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MjY6NTEgUE0maGFzaF92YWx1ZT1NS3d3VDY1aGt0M2FYS1E5bWt0YXhRPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F71112%2FNickelodeon-(HD)
+https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MzU6NDMgUE0maGFzaF92YWx1ZT1OTzRlSDdIZ0ZoZWdFQ3E1WDh4S0hRPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F71112%2FNickelodeon-(HD)
 
 #EXTINF:0 tvg-name="OWN RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="OWN RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Lifestyle",OWN RocketRaccoon (Lifestyle) (US) (English)
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjg6MzEgUE0maGFzaF92YWx1ZT1Ici9icWxHZ3ppT212c1NudnhUc2t3PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F53857%2FOWN---Oprah-Winfrey-Network-(HD)
 
 #EXTINF:0 tvg-name="Olympic Channel RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="Olympic Channel RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Sports",Olympic Channel RocketRaccoon (Sports) (US) (English)
-https://nl2.streamlive.to/freeabr/whtut2y3ooel3lw/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjk6MzMgUE0maGFzaF92YWx1ZT15V3ZLRWFWelhKMXlROXE4M3p1THlRPT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76620%2FOlympic-Channel
+https://nl2.streamlive.to/freeabr/whtut2y3ooel3lw/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjk6NTEgUE0maGFzaF92YWx1ZT12U0NrMkdZK1hzNHVxTU9FZmpsZVBnPT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76620%2FOlympic-Channel
 
 #EXTINF:0 tvg-name="Oxygen RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="Oxygen RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Entertainment",Oxygen RocketRaccoon (Entertainment) (US) (English)
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjg6MTggUE0maGFzaF92YWx1ZT1rVkR0YXFpMUNFTGNvLyt0UUwyZm13PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F38197%2FOxygen-(HD)
@@ -319,10 +319,10 @@ https://nl2.streamlive.to/freeabr/fyev2yma7f3vqzm/playlist.m3u8?wmsAuthSign=c2Vy
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjg6MDMgUE0maGFzaF92YWx1ZT1Kd3JXRGhaMDE3enVQczduYi83WktnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F52479%2FParamount-(HD)
 
 #EXTINF:0 tvg-name="Pop RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="Pop RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Entertainment",Pop RocketRaccoon (Entertainment) (US) (English)
-https://nl2.streamlive.to/freeabr/pkj3rao4c76lkv2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjk6NDAgUE0maGFzaF92YWx1ZT1FNmI1c1ppdXdDMFpuMWxyajlTekFBPT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76708%2FPop
+https://nl2.streamlive.to/freeabr/pkj3rao4c76lkv2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjk6NTggUE0maGFzaF92YWx1ZT1XUkExZ2tIR2NONjFvODV2ZG1iUHd3PT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76708%2FPop
 
 #EXTINF:0 tvg-name="Pop Thor" tvg-language="English" tvg-country="US" tvg-id="Pop Thor" tvg-logo="https://i.imgur.com/rzqNe0E.jpg" group-title="Music",Pop Thor (Music) (US) (English)
-https://nl2.streamlive.to/freeabr/pkj3rao4c76lkv2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjc6MTUgUE0maGFzaF92YWx1ZT0vQzVxdGxTckxNeFNRQi9VWm9jVEVBPT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76708%2FPop
+https://nl2.streamlive.to/freeabr/pkj3rao4c76lkv2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MzY6MTIgUE0maGFzaF92YWx1ZT1oWjZCZjJTWXBMOCtScldUYkNWeVdnPT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76708%2FPop
 
 #EXTINF:0 tvg-name="Science RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="Science RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Science",Science RocketRaccoon (Science) (US) (English)
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjc6NTEgUE0maGFzaF92YWx1ZT0xblVvUzVGQVF4bklGQ0h4MjYyZUN3PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F68871%2FScience-(HD)
@@ -343,16 +343,16 @@ https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjk6NDAgUE0maGFzaF92YWx1ZT14dkVRUTB3RE5uL3pCZ3VYek1ISW1RPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F47892%2FSky-Sports-Football-vip
 
 #EXTINF:0 tvg-name="Sky Sports Golf RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="Sky Sports Golf RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Sports",Sky Sports Golf RocketRaccoon (Sports) (US) (English)
-https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjk6MzggUE0maGFzaF92YWx1ZT15dDBoeGsxZ0c0YjVodW5ubzhUaW5BPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F77021%2FSky-Sports-Golf-UK-(HD)
+https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjk6NTYgUE0maGFzaF92YWx1ZT16bkNRTndoS1lUSzhaNVNDWVlxdVhBPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F77021%2FSky-Sports-Golf-UK-(HD)
 
 #EXTINF:0 tvg-name="Sky Sports Italy Formula 1 RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="Sky Sports Italy Formula 1 RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Sports",Sky Sports Italy Formula 1 RocketRaccoon (Sports) (US) (English)
-https://nl2.streamlive.to/freeabr/voxxffxmrjwqws5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MTg6NTIgUE0maGFzaF92YWx1ZT1HZytLdGpST01MU3pCS09FZ2pFZ0NBPT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76855%2FSky-Sports-Italy-Formula-1
+https://nl2.streamlive.to/freeabr/voxxffxmrjwqws5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MzA6MDAgUE0maGFzaF92YWx1ZT0yR1lpUzVlYmpaY0laK21HN25tYzNnPT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76855%2FSky-Sports-Italy-Formula-1
 
 #EXTINF:0 tvg-name="Sky Sports Italy MotoGP RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="Sky Sports Italy MotoGP RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Sports",Sky Sports Italy MotoGP RocketRaccoon (Sports) (US) (English)
-https://nl2.streamlive.to/freeabr/7m6fo30uhdimj6s/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjk6MzIgUE0maGFzaF92YWx1ZT1iclVKMWFkaFYvVG5FWFVCM0xKMUxBPT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76858%2FSky-Sports-Italy-MotoGP
+https://nl2.streamlive.to/freeabr/7m6fo30uhdimj6s/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjk6NTAgUE0maGFzaF92YWx1ZT1VVm1saVpHSGFJbkRhTldQYXJlanFBPT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76858%2FSky-Sports-Italy-MotoGP
 
 #EXTINF:0 tvg-name="Sky Sports Italy Serie A RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="Sky Sports Italy Serie A RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Sports",Sky Sports Italy Serie A RocketRaccoon (Sports) (US) (English)
-https://nl2.streamlive.to/freeabr/z0k59cyp3y3nkk5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjk6NDEgUE0maGFzaF92YWx1ZT0xWHh2YW9FN0R4bWJPaEp3OExEbjBBPT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76912%2FSky-Sports-Italy-Serie-A
+https://nl2.streamlive.to/freeabr/z0k59cyp3y3nkk5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjk6NTkgUE0maGFzaF92YWx1ZT1hT1k4cUxxcC9SQlE1ZmlJdVpERjdBPT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76912%2FSky-Sports-Italy-Serie-A
 
 #EXTINF:0 tvg-name="Sky Sports Main Event RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="Sky Sports Main Event RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Sports",Sky Sports Main Event RocketRaccoon (Sports) (US) (English)
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjk6MTAgUE0maGFzaF92YWx1ZT1ia2F6OFJYenUxdkZ6NEVMMjdtZ0tBPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F47893%2FSky-Sports-Main-Event-vip
@@ -364,13 +364,13 @@ https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjk6MTEgUE0maGFzaF92YWx1ZT0vUGg0aEFsV0g2RGhENmR4T1ozcS9nPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76019%2FSky-Sports-Premier-League
 
 #EXTINF:0 tvg-name="South Park Thor" tvg-language="English" tvg-country="US" tvg-id="South Park Thor" tvg-logo="https://i.imgur.com/rzqNe0E.jpg" group-title="RandomAirTime 24/7",South Park Thor (RandomAirTime 24/7) (US) (English)
-https://nl2.streamlive.to/freeabr/p519222iwkn2t2x/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MjY6NTQgUE0maGFzaF92YWx1ZT1oOXlYYXJIUlI4L2tKVjhqT2FtWVdBPT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F40155%2FSouth-Park
+https://nl2.streamlive.to/freeabr/p519222iwkn2t2x/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MzU6NDYgUE0maGFzaF92YWx1ZT0wV2ozOW95ZFd3UC9Pdkx1YjlQaWFRPT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F40155%2FSouth-Park
 
 #EXTINF:0 tvg-name="Sport Net Toronto RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="Sport Net Toronto RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Sports",Sport Net Toronto RocketRaccoon (Sports) (US) (English)
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjk6MTIgUE0maGFzaF92YWx1ZT1WWEpRWkZ5Sm1nZkVoRkgwTDlKbUNBPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76398%2FSport-Net-Toronto
 
 #EXTINF:0 tvg-name="Star Sports 2 India Thor" tvg-language="English" tvg-country="US" tvg-id="Star Sports 2 India Thor" tvg-logo="https://i.imgur.com/rzqNe0E.jpg" group-title="Sports",Star Sports 2 India Thor (Sports) (US) (English)
-https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MjY6NTYgUE0maGFzaF92YWx1ZT1CMmVUZm81Vml0QXRoMXBJOXlRQmlBPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76873%2FStar-Sports-2-India-(HD)
+https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MzU6NTIgUE0maGFzaF92YWx1ZT1UY1B6Znd5dW5QNHlNNzRIcUVobnlnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76873%2FStar-Sports-2-India-(HD)
 
 #EXTINF:0 tvg-name="Starz RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="Starz RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Movie Channels",Starz RocketRaccoon (Movie Channels) (US) (English)
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjg6MTcgUE0maGFzaF92YWx1ZT04ZzRTNHRsTm1OWGh6MTcvajRWb1F3PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F73003%2FStarZ-(HD)
@@ -382,7 +382,7 @@ https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjg6MzAgUE0maGFzaF92YWx1ZT1ueHk0Tyttb3pYMkZpclNtYmE4YllnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F73006%2FTBS-(HD)
 
 #EXTINF:0 tvg-name="TBS Thor" tvg-language="English" tvg-country="US" tvg-id="TBS Thor" tvg-logo="https://i.imgur.com/rzqNe0E.jpg" group-title="Entertainment",TBS Thor (Entertainment) (US) (English)
-https://nl2.streamlive.to/freeabr/lhjshwnlxkq8rps/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjc6MDEgUE0maGFzaF92YWx1ZT1PdFlTa3A0Y3h1SERkZytyKzZoU2FnPT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F77066%2FTBS
+https://nl2.streamlive.to/freeabr/lhjshwnlxkq8rps/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MzU6NTYgUE0maGFzaF92YWx1ZT1zc25tT1NBNUpCclhKSHQ5cEtmM1JRPT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F77066%2FTBS
 
 #EXTINF:0 tvg-name="TLC RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="TLC RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Entertainment",TLC RocketRaccoon (Entertainment) (US) (English)
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjk6MzggUE0maGFzaF92YWx1ZT15dDBoeGsxZ0c0YjVodW5ubzhUaW5BPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F69109%2FTLC-(HD)
@@ -391,10 +391,10 @@ https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjc6MzggUE0maGFzaF92YWx1ZT1ZL3BuQU4zS2JNRmNPSHBhWDZQWEVnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F57973%2FTNT-(HD)
 
 #EXTINF:0 tvg-name="TRU TV Thor" tvg-language="English" tvg-country="US" tvg-id="TRU TV Thor" tvg-logo="https://i.imgur.com/rzqNe0E.jpg" group-title="Entertainment",TRU TV Thor (Entertainment) (US) (English)
-https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MjY6NDYgUE0maGFzaF92YWx1ZT1vV1RVOXVLdlF3RGptdEdjd1RmTGVnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F52755%2FTruTV-(HD)
+https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MzU6MzggUE0maGFzaF92YWx1ZT1PLzlyZHRab0ZDcVBVNzJyNnlvT3J3PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F52755%2FTruTV-(HD)
 
 #EXTINF:0 tvg-name="TSN 2 RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="TSN 2 RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Sports",TSN 2 RocketRaccoon (Sports) (US) (English)
-https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjk6MzAgUE0maGFzaF92YWx1ZT1ON0NNTytQY0VrL3p1SGQ3TGoxbW9RPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76399%2FTSN-2-(HD)
+https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjk6NDYgUE0maGFzaF92YWx1ZT13UzJqQUZQNVR5cGw4Nlg0UitOS1pnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76399%2FTSN-2-(HD)
 
 #EXTINF:0 tvg-name="TSN 3 Canada RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="TSN 3 Canada RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Sports",TSN 3 Canada RocketRaccoon (Sports) (US) (English)
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjg6NTYgUE0maGFzaF92YWx1ZT00NnhKODVBSjVJaUdZVzhlbW9Qa053PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76396%2FTSN-3-Vip(Canada)
@@ -415,16 +415,16 @@ https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjk6MzkgUE0maGFzaF92YWx1ZT1pSHZuMU9neStlYkxlZ2ovSnUwUTF3PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76739%2FTelemundo-(HD)
 
 #EXTINF:0 tvg-name="Telemundo Thor" tvg-language="English" tvg-country="US" tvg-id="Telemundo Thor" tvg-logo="https://i.imgur.com/rzqNe0E.jpg" group-title="Spanish",Telemundo Thor (Spanish) (US) (English)
-https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjc6MDMgUE0maGFzaF92YWx1ZT04L1hMbW1hTE5rYjl4OWtsTEZMM3N3PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76739%2FTelemundo-(HD)
+https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MzU6NTkgUE0maGFzaF92YWx1ZT1jVmlMbld5bUs1d2hPeDducWZPYUlBPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76739%2FTelemundo-(HD)
 
 #EXTINF:0 tvg-name="Tennis Channel RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="Tennis Channel RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Sports",Tennis Channel RocketRaccoon (Sports) (US) (English)
-https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjc6MjggUE0maGFzaF92YWx1ZT1jWGYweDNkVUZ4aGVOS3hUVWROVktBPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76341%2FTennis-Channel-(HD)
+https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6MzY6MjUgUE0maGFzaF92YWx1ZT1UWE1IZGlZQm5rbEdneTJjV2M2RXpRPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76341%2FTennis-Channel-(HD)
 
 #EXTINF:0 tvg-name="Travel Channels RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="Travel Channels RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Entertainment",Travel Channels RocketRaccoon (Entertainment) (US) (English)
-https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjk6MjcgUE0maGFzaF92YWx1ZT1nakNxcnh6U3BacExnQ2IxU0s3Y25BPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F65833%2FTravel-channel-(HD)
+https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjk6NDIgUE0maGFzaF92YWx1ZT1iVG8yNU90TnlpTjIrU05zQ1JQaVdBPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F65833%2FTravel-channel-(HD)
 
 #EXTINF:0 tvg-name="TruTV RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="TruTV RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Entertainment",TruTV RocketRaccoon (Entertainment) (US) (English)
-https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjk6MjggUE0maGFzaF92YWx1ZT1UTHVzZGoybndObkV4M0phSzlzeitnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F52755%2FTruTV-(HD)
+https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjk6NDQgUE0maGFzaF92YWx1ZT16VVgwYXNKOXVVQjcvOXZOTWFDaHF3PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F52755%2FTruTV-(HD)
 
 #EXTINF:0 tvg-name="USA Network RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="USA Network RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Entertainment",USA Network RocketRaccoon (Entertainment) (US) (English)
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjc6NTcgUE0maGFzaF92YWx1ZT1IMkpjWXVlMW4raW80a2paRTFURE1BPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F38768%2FUSA-Network-(HD)
@@ -442,7 +442,7 @@ https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjg6MjQgUE0maGFzaF92YWx1ZT0rbzBLbmc0ZFZiM2t6RmRLbUlJYzd3PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F52988%2FVH1-(HD)
 
 #EXTINF:0 tvg-name="WLS 7 Chicago RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="WLS 7 Chicago RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Entertainment",WLS 7 Chicago RocketRaccoon (Entertainment) (US) (English)
-https://nl2.streamlive.to/freeabr/wgxkf3nnl2xv311/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjk6MzkgUE0maGFzaF92YWx1ZT05VkJISFJBaEZXOS9CUVBnTDREa1Z3PT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F77074%2FWLS-7-Chicago
+https://nl2.streamlive.to/freeabr/wgxkf3nnl2xv311/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjk6NTcgUE0maGFzaF92YWx1ZT04SWMyVVgzZVpOVTgwTEFNaHMwTWV3PT0mdmFsaWRtaW51dGVzPT0NDAmc3RybV9sZW49MjMmaXA9NDcuMjguMTIzLjY=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F77074%2FWLS-7-Chicago
 
 #EXTINF:0 tvg-name="YES RocketRaccoon" tvg-language="English" tvg-country="US" tvg-id="YES RocketRaccoon" tvg-logo="https://i.imgur.com/z6XD2tR.jpg" group-title="Sports",YES RocketRaccoon (Sports) (US) (English)
 https://nl2.streamlive.to/freeabr//playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIwIDI6Mjk6MjkgUE0maGFzaF92YWx1ZT01RHcvdkFXS3RjV1gzR2trSDRIYnVBPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj00JmlkPTA=|Referer=https%3A%2F%2Fwww.streamlive.to%2Fview%2F76418%2FYES-(HD)
@@ -1138,7 +1138,7 @@ https://api.new.livestream.com/accounts/10950088/events/3587954/broadcasts/20863
 https://api.new.livestream.com/accounts/11205802/events/3629935/broadcasts/208634637.secure.m3u8|Referer=http%3A%2F%2Fnew.livestream.com&User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F59.0.3071.115%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="North Carolina WGHP" tvg-language="English" tvg-country="US" tvg-id="North Carolina WGHP" tvg-logo="http://cdn.livestream.com/news/images/wghp.png" group-title="News",North Carolina WGHP (News) (US) (English)
-https://api.new.livestream.com/accounts/9287016/events/3206504/broadcasts/208634284.secure.m3u8|Referer=http%3A%2F%2Fnew.livestream.com&User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F59.0.3071.115%20Safari%2F537.36
+https://api.new.livestream.com/accounts/9287016/events/3206504/broadcasts/208644764.secure.m3u8|Referer=http%3A%2F%2Fnew.livestream.com&User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F59.0.3071.115%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="North Carolina wccb" tvg-language="English" tvg-country="US" tvg-id="North Carolina wccb" tvg-logo="http://cdn.livestream.com/news/images/wccb.png" group-title="News",North Carolina wccb (News) (US) (English)
 https://api.new.livestream.com/accounts/8522553/events/3012740/broadcasts/208633604.secure.m3u8|Referer=http%3A%2F%2Fnew.livestream.com&User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F59.0.3071.115%20Safari%2F537.36
@@ -1213,19 +1213,19 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8|Referer
 http://204.107.27.137/live/27.low.stream/playlist.m3u8|Referer=https%3A%2F%2Fwww.livenewson.com&User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F59.0.3071.115%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="CBC News CaptainMarvel" tvg-language="English" tvg-country="US" tvg-id="CBC News CaptainMarvel" tvg-logo="https://i.imgur.com/EkVttjS.jpg" group-title="News",CBC News CaptainMarvel (News) (US) (English)
-https://1359547862.rsc.cdn77.org/xZX_Nn4utvdX9yKNgOEKeQ==%2C1594745561/LS-ATL-54548-8/index.m3u8|Referer=https%3A%2F%2Fwww.livenewson.com&User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F59.0.3071.115%20Safari%2F537.36
+https://1359547862.rsc.cdn77.org/WQupGBIoJCZUSchJXK82Qw==%2C1594745926/LS-ATL-54548-8/index.m3u8|Referer=https%3A%2F%2Fwww.livenewson.com&User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F59.0.3071.115%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="CNBC America CaptainMarvel" tvg-language="English" tvg-country="US" tvg-id="CNBC America CaptainMarvel" tvg-logo="https://i.imgur.com/EkVttjS.jpg" group-title="News",CNBC America CaptainMarvel (News) (US) (English)
-https://1674331492.rsc.cdn77.org/E0DNYeQVH9Mi70yihWoW1g==%2C1594744163/LS-ATL-54548-14/index.m3u8|Referer=https%3A%2F%2Fwww.livenewson.com&User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F59.0.3071.115%20Safari%2F537.36
+https://1674331492.rsc.cdn77.org/E9qjnnxSqyfsd1iXLeAjzw==%2C1594744528/LS-ATL-54548-14/index.m3u8|Referer=https%3A%2F%2Fwww.livenewson.com&User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F59.0.3071.115%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="CNBC Europe CaptainMarvel" tvg-language="English" tvg-country="US" tvg-id="CNBC Europe CaptainMarvel" tvg-logo="https://i.imgur.com/EkVttjS.jpg" group-title="News",CNBC Europe CaptainMarvel (News) (US) (English)
 https://1674331492.rsc.cdn77.org/LS-ATL-54548-14/index.m3u8|Referer=https%3A%2F%2Fwww.livenewson.com&User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F59.0.3071.115%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="Fox Business Network CaptainMarvel" tvg-language="English" tvg-country="US" tvg-id="Fox Business Network CaptainMarvel" tvg-logo="https://i.imgur.com/EkVttjS.jpg" group-title="News",Fox Business Network CaptainMarvel (News) (US) (English)
-https://1329918864.rsc.cdn77.org/-5PMnlG2PXf9CVO1V5Ommg==%2C1594741767/ls-54548-1/index.m3u8|Referer=https%3A%2F%2Fwww.livenewson.com&User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F59.0.3071.115%20Safari%2F537.36
+https://1329918864.rsc.cdn77.org/x5_OliUk0X_EF6zI6KoU4g==%2C1594742131/ls-54548-1/index.m3u8|Referer=https%3A%2F%2Fwww.livenewson.com&User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F59.0.3071.115%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="MSNBC CaptainMarvel" tvg-language="English" tvg-country="US" tvg-id="MSNBC CaptainMarvel" tvg-logo="https://i.imgur.com/EkVttjS.jpg" group-title="News",MSNBC CaptainMarvel (News) (US) (English)
-https://1420543146.rsc.cdn77.org/Uua5YoP99ZvGw6Igml4x0w==%2C1594742504/LS-ATL-54548-10/index.m3u8|Referer=https%3A%2F%2Fwww.livenewson.com&User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F59.0.3071.115%20Safari%2F537.36
+https://1420543146.rsc.cdn77.org/X_tNd0a3yjoWop8tN7OQ-A==%2C1594744283/LS-ATL-54548-10/index.m3u8|Referer=https%3A%2F%2Fwww.livenewson.com&User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F59.0.3071.115%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="How to Sweep in Ccloud" tvg-language="English" tvg-country="US" tvg-id="How to Sweep in Ccloud" tvg-logo="http://extreme.com/media/img/extreme/tv_guide.png" group-title="Tutorials",How to Sweep in Ccloud (Tutorials) (US) (English)
 https://archive.org/download/chchelp/sweepers%20updated.mp4
